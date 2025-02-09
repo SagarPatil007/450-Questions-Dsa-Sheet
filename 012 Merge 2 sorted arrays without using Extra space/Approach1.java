@@ -1,3 +1,10 @@
+/* 012 Merge 2 sorted arrays without using Extra space */
+/* 
+    1. Traverse both array and store into third one
+    2. Sort the array
+    Time Complexity : o(n^2)
+    Space Complexity : o(n)
+*/
 import java.util.Arrays;
 
 public class Approach1 {
